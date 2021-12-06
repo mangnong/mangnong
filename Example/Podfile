@@ -1,0 +1,6 @@
+use_frameworks!
+target 'mangnong_Tests' do
+  pod 'mangnong', :path => '../'
+  
+  
+end
